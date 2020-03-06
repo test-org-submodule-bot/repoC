@@ -1,0 +1,8 @@
+{
+  "name": "repoC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dbalmain/repoC.git",
+  "author": "Dave Balmain <dsbalmain@agiledigital.com.au>",
+  "license": "MIT"
+}
